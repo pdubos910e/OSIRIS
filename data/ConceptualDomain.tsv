@@ -1,5 +1,5 @@
 ValueMeaning	LabelValueMeaning	Referentiel	url	TypeConceptualDomain	FormatConceptualDomain	ConceptualDomain
-HL70:M	Male	FHIR (HL7)	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	FHIR:AdministrativeGender
+HL700:M	Male	FHIR (HL7)	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	FHIR:AdministrativeGender
 HL7:F	Female	FHIR (HL7)	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	FHIR:AdministrativeGender
 HL7:UN	Undifferentiated	FHIR (HL7)	http://hl7.org/fhir/v3/AdministrativeGender	Enumerated	String	FHIR:AdministrativeGender
 UMLS:C0439673	Unknown	UMLS		Enumerated	String	FHIR:AdministrativeGender

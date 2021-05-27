@@ -1,5 +1,5 @@
 ObjectClass	ObjectProperty	DataElementConcept	ObjectPropertyLabelEN	ObjectPropertyLabelFR	ConceptualDomain	FormatConceptualDomain	Required	DataElementConceptDefFR	DataElementConceptDefEN	IdDataElementConcept	Examples
-Patient	Id	Patient_Id	Patient Id	Id du patient test		String	mandatory	Identifiant du patient dans le centre transmetteur de l'information	Patient ID in the center providing the information	C1	SHIVA_01-001
+Patient	Id	Patient_Id	Patient Id	Id du patient	String	mandatory	Identifiant du patient dans le centre transmetteur de l'information	Patient ID in the center providing the information	C1	SHIVA_01-001
 Patient	Gender	Patient_Gender	Gender	Sexe du patient	FHIR:AdministrativeGender	String	mandatory	Sexe du patient	Gender of the patient	C2	
 Patient	Ethnicity	Patient_Ethnicity	Ethnicity	Ethnicité	FHIR:Race	String	optional	Origine ethnique du patient	Ethnicity of the patient	C3	
 Patient	BirthDate	Patient_BirthDate	Birth Date	Date de naissance		Date	mandatory	Date de naissance du patient	Date of birth of the patient	C4	YYYY-MM-DD
